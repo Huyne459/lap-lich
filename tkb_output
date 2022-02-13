@@ -1,0 +1,68 @@
+-------------------------------subject 1
+sub_1 = 1 1 
+-------------------------------subject 2
+sub_2 = 1 1 
+-------------------------------subject 3
+sub_3 = 1 1 
+-------------------------------subject 4
+sub_4 = 1 
+-------------------------------subject 5
+sub_5 = 1 1 
+sub_5 = 1 2 
+sub_5 = 1 1 
+sub_5 = 1 2 
+sub_4 = 1 
+sub_3 = 1 2 
+-------------------------------subject 4
+sub_4 = 1 
+-------------------------------subject 5
+sub_5 = 1 1 
+sub_5 = 1 2 
+-------------------------------subject 6
+sub_6 = 1 
+-------------------------------subject 7
+sub_7 = 1 
+sub_6 = 2 
+-------------------------------subject 7
+sub_7 = 1 
+-------------------------------subject 8
+session 1:  1 
+session 1:  2 
+session 1:  1 2 
+session 1:  1 
+session 1:  1 2 
+session 1:  1 1 
+session 1:  1 1 
+
+------------------------------------
+DUOC 064 	 Sess: 1
+ 	LT	Thu:3	Tiet:1 -> 5	Tuan:1 -> 8	Room: A4 405	Nhàn Hà Thị
+ 	TH	Thu:6	Tiet:7 -> 12	Tuan:3 -> 8	Room: B3 103	"Hiền Đặng Thị; Giang Nguyễn Thị Hồng"
+ 	
+------------------------------------
+DUOC 068 	 Sess: 1
+ 	LT	Thu:5	Tiet:7 -> 10	Tuan:1 -> 18	Room: A6 305	Phượng Phùng Minh
+ 	TH	Thu:3	Tiet:1 -> 5	Tuan:10 -> 15	Room: A6 702	Phượng Phùng Minh
+ 	
+------------------------------------
+DUOC 070 	 Sess: 1
+ 	LT	Thu:4	Tiet:9 -> 12	Tuan:1 -> 18	Room: A4 205	Thông Nguyễn Trọng
+ 	TH	Thu:5	Tiet:1 -> 5	Tuan:1 -> 18	Room: A3 303	Lan Lương Thúy
+ 	
+------------------------------------
+DUOC 071 	 Sess: 1
+ 	LT	Thu:6	Tiet:9 -> 12	Tuan:11 -> 15	Room: A4 305	"Lan Lương Thúy: Thông Nguyễn Trọng"
+ 	
+------------------------------------
+DUOC 077 	 Sess: 1
+ 	LT	Thu:5	Tiet:8 -> 12	Tuan:9 -> 16	Room: A6 103	"Hiệp Trần Tuấn; Nhàn Hà Thị"
+ 	TH	Thu:4	Tiet:7 -> 12	Tuan:11 -> 15	Room: B3 102	"Hiền Đặng Thị; Giang Nguyễn Thị Hồng"
+ 	
+------------------------------------
+DUOC 086 	 Sess: 1
+ 	LT	Thu:2	Tiet:9 -> 11	Tuan:1 -> 18	Room: A3 104	Tùng Trương Thanh
+ 	
+------------------------------------
+DUOC 088 	 Sess: 1
+ 	LT	Thu:3	Tiet:8 -> 11	Tuan:11 -> 15	Room: A4 402	Huyền Hoàng Lệ
+ 	
